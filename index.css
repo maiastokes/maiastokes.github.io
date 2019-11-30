@@ -1,0 +1,20 @@
+body{
+    background-color:antiquewhite;
+}
+
+h1{
+    text-align:center;
+    font-size:50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-size:40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navigationTab{
+    background-color:slategray;
+    overflow:hidden;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
